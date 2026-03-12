@@ -2,8 +2,8 @@ public class OopsCharacterPattern {
 
     static class CharacterPatternMap {
 
-        private char character;
-        private String[] pattern;
+        char character;
+        String[] pattern;
 
         public CharacterPatternMap(char character, String[] pattern) {
             this.character = character;
